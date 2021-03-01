@@ -27,7 +27,7 @@
     <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="loadUrlTimeoutValue" value="700000" />
     <preference name="KeyboardDisplayRequiresUserAction" value="false" />
-    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="AIzaSyDdNGZJp1yh6jGk6byMwrrkFDY8hQOw-jU" />
+    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="" />
     <platform name="android">
         <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application" xmlns:android="http://schemas.android.com/apk/res/android">
             <application android:networkSecurityConfig="@xml/network_security_config" />
