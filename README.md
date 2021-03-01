@@ -52,19 +52,19 @@ Open platforms/ios/CC Fantasy/CC Fantasy-Info.plist
 <key>GADIsAdManagerApp</key>
 <true/>
 <key>GADApplicationIdentifier</key>
-<string>ca-app-pub-5607778480081128/6479684882</string>
+<string></string>
 ```
 
 2. Added these lines in GoogleService-Info.plist
 
 ```
 <key>GADApplicationIdentifier</key>
-<string>ca-app-pub-5607778480081128/6479684882</string>
+<string></string>
 <key>SKAdNetworkItems</key>
 <array>
     <dict>
     <key>SKAdNetworkIdentifier</key>
-    <string>cstr6suwn9.skadnetwork</string>
+    <string></string>
     </dict>
 </array>
 ```
